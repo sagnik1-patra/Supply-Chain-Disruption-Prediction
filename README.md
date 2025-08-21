@@ -1,7 +1,6 @@
 #  Supply Chain Disruption Analyzer & Map Visualizer
 
 This project analyzes news headlines to detect trends in **supply chain disruptions** using NLP and visualizes **key supply chain locations** on an interactive **satellite map**.
-
 ---
 
 ##  Files
